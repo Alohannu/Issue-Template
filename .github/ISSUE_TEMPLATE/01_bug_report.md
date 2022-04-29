@@ -11,7 +11,7 @@ about: If something isn't working 🔧
 | Linux OS?           |                 |
 | MAC OS?           |                 
 | Visual Studio?               |                 |
-| Sublime          |                 |
+| Sublime?          |                 |
 | Server Windows OS?     |                 |
 | Server Linux OS?           |                 |
 
@@ -31,6 +31,13 @@ _Remove this hint: these checkboxes can be checked like this: [x]_
 - [ ] iOS sim
 - [ ] Android device
 - [ ] Android sim
+
+- [ ] Chrome
+- [ ] Firefox
+- [ ] Edge
+- [ ] Safari 11
+- [ ] Safari 10
+- [ ] IE 11
 
 ### What is the expected behaviour?
 
