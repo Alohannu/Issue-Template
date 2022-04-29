@@ -6,7 +6,7 @@ about: If something isn't working 🔧
 ### Version Information
 | Software                       | Version(s) |
 | ------------------------| ---------- |
-| Angular    |                 |
+| Angular   |                 |
 | Windows OS?     |                 |
 | Linux OS?           |                 |
 | MAC OS?           |                 
@@ -15,14 +15,6 @@ about: If something isn't working 🔧
 | Server Windows OS?     |                 |
 | Server Linux OS?           |                 |
 
-### Browsers Affected
-<!-- Check all that apply -->
-- [ ] Chrome
-- [ ] Firefox
-- [ ] Edge
-- [ ] Safari 11
-- [ ] Safari 10
-- [ ] IE 11
 
 ### I'm seeing this behaviour on
 _Remove this hint: these checkboxes can be checked like this: [x]_
