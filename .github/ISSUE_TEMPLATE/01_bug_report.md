@@ -48,17 +48,15 @@ Example:
 4. Append `div` to `my-element`
 -->
 
-### Any possible solutions?
-
 ### Can you identify the location in the driver source code where the problem exists?
 
-### Screenshots
+#### Screenshots
 ![Grogu Giffy](https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif)
 
-### Files
+#### Files
 A list of relevant files for this issue. This will help people navigate the project and offer some clues of where to start.
 
-**Related code:**
+***Related code:***
 
 <!-- If you are able to illustrate the bug or feature request with an example, please provide a sample application via one of the following means:
 A sample application via GitHub
@@ -75,3 +73,6 @@ Include specific tasks in the order they need to be done in. Include links to sp
 - [ ] Task 1
 - [ ] Task 2
 - [ ] Task 3
+
+### Any possible solutions?
+
