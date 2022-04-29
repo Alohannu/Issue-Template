@@ -39,14 +39,13 @@ _Remove this hint: these checkboxes can be checked like this: [x]_
 ### Please provide a unit test that demonstrates the bug.
 
 ### Steps to Reproduce
-<!--
 Example:
 
 1. Create `my-element`
 2. Append `my-element` to document.body
 3. Create `div`.
 4. Append `div` to `my-element`
--->
+
 
 ### Can you identify the location in the driver source code where the problem exists?
 
